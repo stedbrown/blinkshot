@@ -299,7 +299,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 - **Issues**: [GitHub Issues](https://github.com/stedbrown/blinkshot/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/stedbrown/blinkshot/discussions)
-- **Email**: [Contact Developer](mailto:your-email@example.com)
+- **Email**: [Contact Developer](mailto:stefano.vananti@example.com)
 
 ## 🔗 Links
 
@@ -312,7 +312,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 <div align="center">
 
-**Made with ❤️ by [stedbrown](https://github.com/stedbrown)**
+**Made with ❤️ by [Stefano Vananti](https://github.com/stedbrown)**
 
 [![GitHub stars](https://img.shields.io/github/stars/stedbrown/blinkshot?style=social)](https://github.com/stedbrown/blinkshot/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/stedbrown/blinkshot?style=social)](https://github.com/stedbrown/blinkshot/network/members)
